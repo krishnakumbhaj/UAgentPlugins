@@ -14,7 +14,7 @@ A universal plugin that connects any AI agent framework (LlamaIndex, LangChain, 
 ## 📦 Installation
 
 ```bash
-pip install uagents uagents-adapter
+pip install uagents-plugin
 ```
 
 Install your preferred framework(s):
